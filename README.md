@@ -3,19 +3,19 @@
 ###
 
 <div align="left">
-  <a href="https://youtube.com/@splamei" target="_blank">
+  <a href="https://youtube.com/@whyisntgoogleloginworking" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
   </a>
-  <a href="https://twitter.com/splamei" target="_blank">
+  <a href="https://twitter.com/whyisntgoogleloginworking" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
   </a>
-  <a href="https://twitch.tv/splamei" target="_blank">
+  <a href="https://twitch.tv/whyisntgoogleloginworking" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitch logo"  />
   </a>
   <a href="https://discord.gg/g2KTP5X9At" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
   </a>
-  <a href="mailto:splamei.vt@gmail.com" target="_blank">
+  <a href="mailto:whyisntgoogleloginworking.vt@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
 </div>
@@ -32,7 +32,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/splamei/splamei/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/whyisntgoogleloginworking/whyisntgoogleloginworking/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -65,8 +65,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=splamei&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=splamei&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=whyisntgoogleloginworking&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whyisntgoogleloginworking&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
