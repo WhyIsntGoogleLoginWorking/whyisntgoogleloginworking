@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Splamei</h1>
+<h1 align="center">Hello!</h1>
 
 ###
 
@@ -6,15 +6,11 @@
 
 ###
 
-<p align="left">Can you guess who I am? Do you know who's account this is because it isn't my main.</p>
+<p align="left">This is the alt account of someone else of GitHub. Can you guess who?</p>
 
 ###
 
 <img src="https://raw.githubusercontent.com/whyisntgoogleloginworking/whyisntgoogleloginworking/output/snake.svg" alt="Snake animation" />
-
-###
-
-<h2 align="left">Things I use</h2>
 
 ###
 
@@ -34,7 +30,7 @@
 
 ###
 
-<h2 align="left">Other cool things</h2>
+<h2 align="left">Stats</h2>
 
 ![](https://raw.githubusercontent.com/whyisntgoogleloginworking/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/whyisntgoogleloginworking/github-stats/master/generated/languages.svg#gh-dark-mode-only)
